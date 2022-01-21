@@ -1,1 +1,1 @@
-[GitHub]https://github.com/K4RTSA
+[GitHub](http://github.com)
