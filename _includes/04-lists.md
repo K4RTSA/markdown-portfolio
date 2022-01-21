@@ -1,3 +1,3 @@
-[] Emoji
-[] Ordered Lists
-[] Unordered Lists
+- free time
+- beer
+- my doggo
