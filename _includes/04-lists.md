@@ -1,0 +1,3 @@
+- free time
+- beer
+- my doggo
